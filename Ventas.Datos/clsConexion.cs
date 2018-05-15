@@ -4,7 +4,9 @@ using System.Data.SqlClient;
 
 public class clsConexion
 {
+
 	public clsConexion() { }
+
 
 	public SqlConnection getConexion()
 	{
